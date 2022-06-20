@@ -31,8 +31,7 @@ public class Vendedor {
         for(i=0;i<array_ventas.length;i++){
             if(array_ventas[i]<350){
                 menor++;
-            }
-            else{}   
+            }   
         }        
         return menor;
     }
@@ -40,8 +39,7 @@ public class Vendedor {
         for(i=0;i<array_ventas.length;i++){
             if(array_ventas[i]>=350){
                 mayor++;
-            }
-            else{}   
+            } 
         }
         return mayor;
     }

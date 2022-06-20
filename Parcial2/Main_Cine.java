@@ -1,6 +1,6 @@
 package Parcial2;
 import java.util.Scanner;
-public class Main_2 {
+public class Main_Cine {
     public static void main(String[]args){
 //variables locales
         int s=0, opcion=0,a=0,k=0,menor=0,kids=0, adults=0;

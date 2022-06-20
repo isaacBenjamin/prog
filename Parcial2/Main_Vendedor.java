@@ -2,7 +2,7 @@ package Parcial2;
 
 import java.util.Scanner;
 
-public class Main_1 {
+public class Main_Vendedor {
     public static void main(String[]args){
         //VARIABLES LOCALES
         double[] array_ventas_1=new double[5];
